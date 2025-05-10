@@ -712,8 +712,8 @@ svg {
 
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    font-size: 5vw;
+    font-size: 5.5vw;
+    padding-left: 50px;
 
     transform: translateY(-100%);
     transition: 0.3s;
