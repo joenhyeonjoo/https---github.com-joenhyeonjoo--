@@ -84,13 +84,12 @@ svg {
 .header_area .in_menu {
   display: flex;
   gap: 50px;
-<<<<<<< HEAD
+
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-=======
+
   position: relative;
->>>>>>> 176f73d9c0d5b13a94e0d622dead4efd2ac300f0
 }
 
 .sub_menu_box {
@@ -435,11 +434,10 @@ svg {
 
 .sec_4 .sub_box {
   width: 90%;
-<<<<<<< HEAD
+
   padding-left: 45px;
   color: #8d8d8d;
-=======
->>>>>>> 176f73d9c0d5b13a94e0d622dead4efd2ac300f0
+
   line-height: 40px;
   max-height: 0;
 
@@ -821,19 +819,16 @@ svg {
     width: 65px;
     height: 20px;
   }
-<<<<<<< HEAD
+
   .sec_1 .img_box,
   .sec_1 .in_box2 {
     pointer-events: none;
   }
-=======
->>>>>>> 176f73d9c0d5b13a94e0d622dead4efd2ac300f0
 
   .sec_3 .sub_title {
     font-size: 1rem;
   }
 
-<<<<<<< HEAD
   .sec_4 .sub_box {
     padding-left: 20px;
   }
@@ -846,13 +841,11 @@ svg {
     height: 600px;
   }
 
-=======
->>>>>>> 176f73d9c0d5b13a94e0d622dead4efd2ac300f0
   .footer_area .mid_box {
     flex-direction: column;
     gap: 10px;
     font-size: 1rem;
-<<<<<<< HEAD
+
     margin: 10px 0;
     padding-left: 10px;
   }
@@ -864,9 +857,8 @@ svg {
 
   .footer_area .text {
     display: none;
-=======
+
     padding-left: 0;
->>>>>>> 176f73d9c0d5b13a94e0d622dead4efd2ac300f0
   }
 
   .footer_area .customer {
@@ -987,11 +979,9 @@ svg {
 
   .sec_3 .swiper-container.text_box {
     width: 100%;
-<<<<<<< HEAD
+
     height: auto;
-=======
-    height: 400px;
->>>>>>> 176f73d9c0d5b13a94e0d622dead4efd2ac300f0
+
     margin-left: 0;
   }
 
@@ -1000,13 +990,10 @@ svg {
     height: 211px;
   }
 
-<<<<<<< HEAD
   .sec_3 .text {
     display: none;
   }
 
-=======
->>>>>>> 176f73d9c0d5b13a94e0d622dead4efd2ac300f0
   .sec_3 .text_2 {
     width: 100%;
   }
@@ -1016,13 +1003,10 @@ svg {
     display: none;
   }
 
-<<<<<<< HEAD
   .sec_4 .title {
     margin-top: 8px;
   }
 
-=======
->>>>>>> 176f73d9c0d5b13a94e0d622dead4efd2ac300f0
   .sec_4 .accordion_box {
     margin-top: 20px;
   }
@@ -1044,10 +1028,8 @@ svg {
 
   .footer_area .top_box {
     height: 193px;
-<<<<<<< HEAD
+
     margin-bottom: 10px;
-=======
->>>>>>> 176f73d9c0d5b13a94e0d622dead4efd2ac300f0
   }
 
   .footer_area .text_box {
