@@ -85,11 +85,8 @@ svg {
   display: flex;
   gap: 50px;
 
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-
   position: relative;
+  transform: translateX(-50%);
 }
 
 .sub_menu_box {
