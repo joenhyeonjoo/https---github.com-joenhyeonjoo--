@@ -86,7 +86,7 @@ svg {
   gap: 50px;
 
   position: relative;
-  transform: translateX(-50%);
+  transform: translateX(-40%);
 }
 
 .sub_menu_box {
@@ -554,6 +554,10 @@ svg {
     margin: 0 16px;
   }
 
+  .header_area .in_menu {
+    transform: translateX(-30%);
+  }
+
   .sec_1 {
     width: 100%;
   }
@@ -595,6 +599,10 @@ svg {
 
 /* ------------------------------------------------------- */
 @media (max-width: 1300px) {
+  .header_area .in_menu {
+    transform: translateX(-20%);
+  }
+
   .big_text .title,
   .footer_area .title {
     font-size: 3.5rem;
@@ -670,6 +678,10 @@ svg {
 
 /* ------------------------------------------------------- */
 @media (max-width: 1060px) {
+  .header_area .in_menu {
+    transform: translateX(-10%);
+  }
+
   .footer_area .mid_box {
     padding-left: 5%;
   }
